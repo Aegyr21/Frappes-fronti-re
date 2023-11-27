@@ -323,12 +323,12 @@
        "coordinates":  [ 35.2754,33.1086 ]
     },
     "properties": {
-    "event_id_cnty":"LBN5151",
-    "event_date":"2023-11-26",
+    "event_id_cnty":"LBN15151",
+    "event_date":"2023-10-09",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardements",
+    "sub_event_type":"Frappe aérienne",
     "actor1":"Armée israélienne",
     "civilian_targeting":"Non",
     "location":"Marwahin",
@@ -24904,6 +24904,27 @@
     "location":"Metulla",
     "source_scale":"National",
     "notes":"On 20 October 2023, an anti-tank missile was launched by Hezbollah at Metulla (Zefat, HaZafon). No casualties occurred.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2754,33.1086 ]
+    },
+    "properties": {
+    "event_id_cnty":"GFC7625",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Marwahin",
+    "source_scale":"National",
+    "notes":"On 19 October 2023, at around 16:25, Israeli military forces shelled the outskirts of Marwahin (Tyr), in response to a Hezbollah rocket attack against military targets in Israel. There were no casualties.",
     "fatalities":0
     }
   }
