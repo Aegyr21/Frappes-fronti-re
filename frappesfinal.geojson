@@ -324,11 +324,11 @@
     },
     "properties": {
     "event_id_cnty":"LBN15151",
-    "event_date":"2023-10-09",
+    "event_date":"2023-11-26",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Frappe aérienne",
+    "sub_event_type":"Bombardements",
     "actor1":"Armée israélienne",
     "civilian_targeting":"Non",
     "location":"Marwahin",
