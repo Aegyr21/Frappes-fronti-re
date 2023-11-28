@@ -22874,6 +22874,27 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 35.3103,33.1108 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA15",
+    "event_date":"2023-11-18",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Beit Lif",
+    "source_scale":"https://t.me/ignis_fatum/7764",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 35.12964,33.09672 ]
     },
     "properties": {
@@ -23063,27 +23084,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.3103,33.1108 ]
-    },
-    "properties": {
-    "event_id_cnty":"LIVEUA15",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Air/drone strike",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Beit Lif",
-    "source_scale":"https://t.me/ignis_fatum/7764",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 35.515,33.2092 ]
     },
     "properties": {
@@ -23147,42 +23147,21 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.5517,33.2772 ]
+       "coordinates":  [ 35.1819,33.1042 ]
     },
     "properties": {
-    "event_id_cnty":"LIVEUA19",
-    "event_date":"2023-11-21",
+    "event_id_cnty":"LIVEUA28",
+    "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
+    "sub_event_type":"Air/drone strike",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Civilian targeting",
-    "location":"Kfar Kila",
+    "civilian_targeting":"",
+    "location":"Aalma Ech Chaab",
     "source_scale":"N/A",
     "notes":"N/A",
-    "fatalities":2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2192,33.1285 ]
-    },
-    "properties": {
-    "event_id_cnty":"LIVEUA20",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Civilian targeting",
-    "location":"Tayr Harfa",
-    "source_scale":"N/A",
-    "notes":"N/A",
-    "fatalities":3
+    "fatalities":0
     }
   },
   {
@@ -23336,27 +23315,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.1819,33.1042 ]
-    },
-    "properties": {
-    "event_id_cnty":"LIVEUA28",
-    "event_date":"2023-11-19",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Air/drone strike",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Aalma Ech Chaab",
-    "source_scale":"N/A",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 35.5458,33.3025 ]
     },
     "properties": {
@@ -23441,20 +23399,209 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.2754,33.1086 ]
+       "coordinates":  [ 35.5517,33.2772 ]
     },
     "properties": {
-    "event_id_cnty":"LIVEUA33",
-    "event_date":"2023-11-26",
+    "event_id_cnty":"LIVEUA19",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Civilian targeting",
+    "location":"Kfar Kila",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA20",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Civilian targeting",
+    "location":"Tayr Harfa",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2573,33.1045 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
     "sub_event_type":"Shelling/artillery/missile attack",
     "actor1":"Armée israélienne",
     "civilian_targeting":"",
-    "location":"Marwahin",
+    "location":"Boustane",
     "source_scale":"https://t.me/ignis_fatum/7760",
     "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3103,33.1108 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Beit Lif",
+    "source_scale":"https://t.me/ignis_fatum/7764",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.515,33.2092 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Houla",
+    "source_scale":"https://t.me/ignis_fatum/7765",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5449,33.2147 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Margaliyyot",
+    "source_scale":"https://t.me/ignis_fatum/7767",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1819,33.1042 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aalma Ech Chaab",
+    "source_scale":"https://t.me/ignis_fatum/7787",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5517,33.2772 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Kfar Kila",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Tayr Harfa",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2284,33.0878 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Aramsha",
+    "source_scale":"National",
+    "notes":"On 22 October 2023, Hezbollah forces fired anti-tank missiles from Lebanon that landed in an open area near Aramsha (Akko, HaZafon). No injuries or material damages were reported. Since the start of the war on 7 October, over 7,400 rockets have been fired toward Israel from Gaza and Lebanon. At least 1,100 were intercepted by the iron dome, while about 550 fell within Gaza and at least 400 landed within Israel. The government did not address the thousands of rockets that are unaccounted for within the figures.",
     "fatalities":0
     }
   },
@@ -23665,174 +23812,6 @@
     "location":"Yarine",
     "source_scale":"https://t.me/ignis_fatum/7760",
     "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2573,33.1045 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Boustane",
-    "source_scale":"https://t.me/ignis_fatum/7760",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.3103,33.1108 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Air/drone strike",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Beit Lif",
-    "source_scale":"https://t.me/ignis_fatum/7764",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.515,33.2092 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Houla",
-    "source_scale":"https://t.me/ignis_fatum/7765",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5449,33.2147 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"",
-    "location":"Margaliyyot",
-    "source_scale":"https://t.me/ignis_fatum/7767",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.1819,33.1042 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Aalma Ech Chaab",
-    "source_scale":"https://t.me/ignis_fatum/7787",
-    "notes":"N/A",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5517,33.2772 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Kfar Kila",
-    "source_scale":"N/A",
-    "notes":"N/A",
-    "fatalities":2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2192,33.1285 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"",
-    "location":"Tayr Harfa",
-    "source_scale":"N/A",
-    "notes":"N/A",
-    "fatalities":3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2284,33.0878 ]
-    },
-    "properties": {
-    "event_id_cnty":"c",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"",
-    "location":"Aramsha",
-    "source_scale":"National",
-    "notes":"On 22 October 2023, Hezbollah forces fired anti-tank missiles from Lebanon that landed in an open area near Aramsha (Akko, HaZafon). No injuries or material damages were reported. Since the start of the war on 7 October, over 7,400 rockets have been fired toward Israel from Gaza and Lebanon. At least 1,100 were intercepted by the iron dome, while about 550 fell within Gaza and at least 400 landed within Israel. The government did not address the thousands of rockets that are unaccounted for within the figures.",
     "fatalities":0
     }
   },
@@ -24358,6 +24337,27 @@
     "location":"Bani Haiyan",
     "source_scale":"National",
     "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Bani Haiyan (Marjayoun). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2754,33.1086 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA33",
+    "event_date":"2023-11-26",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Marwahin",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
     "fatalities":0
     }
   }
