@@ -22790,482 +22790,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.2573,33.1045 ]
+       "coordinates":  [ 35.1498,33.0977 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7543",
+    "event_id_cnty":"LIVEUA1",
     "event_date":"2023-11-18",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Air/drone strike",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Boustane",
-    "source_scale":"National",
-    "notes":"On 16 October 2023, at around 17:32, Israeli military forces fired artillery shells towards the outskirts of Boustane and Berkat Richa near Boustane (Tyr). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.1819,33.1042 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7544",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Civils visés",
-    "location":"Aalma Ech Chaab",
-    "source_scale":"National",
-    "notes":"On 16 October 2023, Israeli military forces fired alleged phosphorus artillery shells towards Aalma Ech Chaab (Tyr), resulting in 4 suffocation injuries caused by the shells.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2573,33.1045 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7545",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Civils visés",
-    "location":"Boustane",
-    "source_scale":"National",
-    "notes":"On 16 October 2023, at around 20:27, Israeli military forces fired alleged phosphorus artillery shells towards Boustane (Tyr), resulting in a number of suffocations among civilians from the alleged phosphorus.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5449,33.2147 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7546",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Bataille",
-    "sub_event_type":"Affrontement armé",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Margaliyyot",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Hezbollah militants fired an anti-tank missile from Lebanon at an IDF outpost near Margaliyyot (Zefat, HaZafon). No injuries or material damages were reported. Small arms fire from Lebanon toward nearby points on the border were also reported. IDF forces returned fire toward the source of the shooting.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5523,33.1288 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7547",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Bataille",
-    "sub_event_type":"Affrontement armé",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Yiftah",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Hezbollah militants opened fire with small arms toward IDF posts on the Lebanese border, presumably near Yiftah (Zefat, HaZafon). Israeli forces responded with tank and artillery fire at Hezbollah posts in Lebanon. The IDF response was to both the small arms fire and the missiles fired throughout the day. No injuries were reported.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.4723,33.0889 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7548",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Strategic developments",
-    "event_type":"Strategic developments",
-    "sub_event_type":"Attaque avortée",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Avivim",
-    "source_scale":"National",
-    "notes":"Interception: On 17 October 2023, Hezbollah fired rockets from Lebanon toward localities in northern Israel, causing sirens to sound in Malkia and Dishon on the Lebanese border, near Avivim (Zefat, HaZafon). No injuries or material damages were reported, as the rockets were presumably intercepted or fell in open areas.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.572,33.2073 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7549",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Strategic developments",
-    "event_type":"Strategic developments",
-    "sub_event_type":"Attaque avortée",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Kiryat Shmona",
-    "source_scale":"National",
-    "notes":"Interception: On 17 October 2023, Hezbollah militants fired at least two rockets from Lebanon toward Kiryat Shmona (Zefat, HaZafon) and surrounding areas. One rocket was intercepted.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5795,33.2792 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7550",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Metulla",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Hezbollah militants fired two anti-tank missiles from Lebanon at Metulla (Zefat, HaZafon). As a result, three soldiers and one civilian were injured.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.572,33.2073 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7551",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Kiryat Shmona",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Hezbollah militants fired at least two rockets from Lebanon toward Kiryat Shmona (Zefat, HaZafon) and surrounding areas. One rocket was intercepted, while a second landed in an open area in Kiryat Shmona. No injuries or material damages were reported.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.3149,33.0852 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7552",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Shetula",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Hezbollah militants fired an anti-tank missile from Lebanon at Shetula (Akko, HaZafon). The missile hit a tractor, causing damage. No injuries were reported.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5523,33.1288 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7553",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"Non",
-    "location":"Yiftah",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Hezbollah militants fired two anti-tank missiles from Lebanon toward IDF posts near Yiftah (Zefat, HaZafon). No injuries or material damages were reported.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2248,33.1053 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7554",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Civils visés",
-    "location":"Ed Dhayra",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, overnight, Israeli military forces fired for than 100 alleged phosphorus artillery shells towards Ed Dhayra (Tyr), resulting in a number of suffocations and damages to houses. The bombing that started last night, lasted until 5:45 AM.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5517,33.2772 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7555",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Kfar Kila",
-    "source_scale":"Local partner-New media",
-    "notes":"On 17 October 2023, at around 1:38 AM, Israeli military forces shelled the outskirts of Kfar Kila (Marjayoun). The IDF claimed it was striking Hezbollah positions. There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5517,33.2772 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7556",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Kfar Kila",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, at around 10:31 AM, Israeli military forces shelled the main road between Aadayseh and Kfar Kila (Marjayoun). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.6128,33.3278 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7557",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Khiyam",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, at around 10:31 AM, Israeli military forces shelled the Hamames heights south of Khiyam (Marjayoun), in response to an earlier rocket attack from Lebanon towards Metula in Israel. There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.6228,33.2756 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7558",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Al Wazzani",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Israeli military forces shelled the Al Wazzani heights (Hasbeiya). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5911,33.3603 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7559",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Marjayoun",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Israeli military forces fired allegedly phosphorus artillery shells towards the plains south of Marjayoun (Marjayoun). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5517,33.2772 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7560",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Kfar Kila",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, Israeli military forces shelled Bab al Mghara on the outskirts of Kfar Kila (Marjayoun). There were no casualties. At around 10:57 AM, Israeli military forces shelled Al Aazziyeh area north of Kfar Kila. There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.3367,33.0971 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7561",
-    "event_date":"2023-11-18",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Aita ech Chaab",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 16:52, 14:37, and 13:23, Israeli military forces fired a number of artillery shells towards Aita ech Chaab (Bint Jbeil). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5517,33.2772 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7562",
-    "event_date":"2023-11-19",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Frappe aérienne",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Kfar Kila",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, Israeli drones fired two rockets towards Tal al Nahas north of Kfar Kila (Marjayoun). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.3103,33.1108 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7563",
-    "event_date":"2023-11-19",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Civils visés",
-    "location":"Ramieh",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 16:52, Israeli military forces fired a number of artillery shells towards Ramieh (Bint Jbeil), damaging a number of houses and a police station. There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.3367,33.0971 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7564",
-    "event_date":"2023-11-19",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Frappe aérienne",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Aita ech Chaab",
-    "source_scale":"Local partner-New media",
-    "notes":"On 17 October 2023, at around 23:52, Israeli warplanes conducted airstrikes on Aita ech Chaab (Bint Jbeil). The IDF claimed it was targeting Hezbollah sites and military outposts in response to an earlier precision guided missile attack towards Israel. It is assumed that the airstrikes killed a Hezbollah fighter who was later announced dead. Another Hezbollah fighter was later pronounced dead after he suffered serious wounds, likely from this strike.",
-    "fatalities":2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.513,33.2333 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7565",
-    "event_date":"2023-11-19",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Markaba",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 14:37, Israeli military forces targeted an empty house with artillery in Markaba (Marjayoun). There were no casualties.",
+    "civilian_targeting":"",
+    "location":"Labbouneh",
+    "source_scale":"https://twitter.com/Step_Agency/status/1725437160373825588",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23276,17 +22814,17 @@
        "coordinates":  [ 35.513,33.2333 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7566",
-    "event_date":"2023-11-19",
+    "event_id_cnty":"LIVEUA2",
+    "event_date":"2023-11-18",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Air/drone strike",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
+    "civilian_targeting":"",
     "location":"Markaba",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 14:37, Israeli military forces fired artillery shells towards Wadi Hunin and the outskirts of Markaba (Marjayoun). There were no casualties.",
+    "source_scale":"https://x.com/AJABreaking/status/1725442131215470901",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23294,20 +22832,62 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.515,33.2092 ]
+       "coordinates":  [ 35.5436,33.1909 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7567",
+    "event_id_cnty":"LIVEUA3",
+    "event_date":"2023-11-18",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Menara",
+    "source_scale":"https://x.com/ignis_fatum/status/1725450240663199975",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23109,33.0855 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA4",
+    "event_date":"2023-11-18",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Admit",
+    "source_scale":"https://twitter.com/manniefabian/status/1725479016029692144",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12964,33.09672 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA5",
     "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Shelling/artillery/missile attack",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Houla",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 14:37, Israeli military forces fired artillery shells towards the outskirts of Houla (Marjayoun). There were no casualties.",
+    "civilian_targeting":"",
+    "location":"Naqura",
+    "source_scale":"https://twitter.com/alhurra/status/1725742511082078535",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23315,20 +22895,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.4714,33.1153 ]
+       "coordinates":  [ 35.3367,33.0971 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7568",
+    "event_id_cnty":"LIVEUA6",
     "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Air/drone strike",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Aitaroun",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 14:37, Israeli military forces fired artillery shells towards the outskirts of Aitaroun (Bint Jbeil). There were no casualties.",
+    "civilian_targeting":"",
+    "location":"Aita ech Chaab",
+    "source_scale":"https://twitter.com/aljadeednews/status/1725788230069461168",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23336,20 +22916,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.3661,33.0783 ]
+       "coordinates":  [ 35.3207,33.07541 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7569",
+    "event_id_cnty":"LIVEUA7",
     "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Rmaysh",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 14:37, Israeli military forces fired artillery shells towards the outskirts of Rmaysh (Bint Jbeil). There were no casualties.",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Netua",
+    "source_scale":"https://twitter.com/alarabiya_brk/status/1725788822435221618",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23357,20 +22937,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.2573,33.1045 ]
+       "coordinates":  [ 35.36293,33.11786 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7570",
+    "event_id_cnty":"LIVEUA8",
     "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Air/drone strike",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Boustane",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 14:37, Israeli military forces fired artillery shells towards the outskirts of Boustane (Tyr). There were no casualties.",
+    "civilian_targeting":"",
+    "location":"Debbel",
+    "source_scale":"https://t.me/ignis_fatum/7756",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23378,104 +22958,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.5458,33.3025 ]
+       "coordinates":  [ 35.31281,33.0914 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7571",
+    "event_id_cnty":"LIVEUA9",
     "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Deir Mimas",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 10:57 AM, Israeli military forces shelled the southern outskirts of Deir Mimas (Marjayoun). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.4444,33.1038 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7572",
-    "event_date":"2023-11-19",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Civils visés",
-    "location":"Maroun er Ras",
-    "source_scale":"Local partner-New media",
-    "notes":"On 17 October 2023, Israeli military forces bombarded the town of Maroun er Ras (Bint Jbeil), resulting in 4 civilian fatalities.",
-    "fatalities":4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2248,33.1053 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7573",
-    "event_date":"2023-11-20",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Ed Dhayra",
-    "source_scale":"New media-National",
-    "notes":"On 17 October 2023, at around 13:23 and around 19:51, Israeli military forces bombarded the outskirts of Ed Dhayra (Tyr). There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.1819,33.1042 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7574",
-    "event_date":"2023-11-20",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Battles",
-    "sub_event_type":"Affrontement armé",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Aalma Ech Chaab",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, exchanges of machine gun and artillery fire were observed between Israeli soldiers and [presumably] Hezbollah at the outskirts of Aalma ech Chaab (Tyr), amid heavy Israeli bombardment in the area. Casualties unknown.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2324,33.1064 ]
-    },
-    "properties": {
-    "event_id_cnty":"GFC7575",
-    "event_date":"2023-11-20",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Yarine",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, at around 14:30, Israeli military forces bombarded the outskirts of Yarine (Tyr). There were no casualties.",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Shtula",
+    "source_scale":"https://twitter.com/manniefabian/status/1725793096485503088",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23486,17 +22982,17 @@
        "coordinates":  [ 35.2754,33.1086 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7576",
-    "event_date":"2023-11-20",
+    "event_id_cnty":"LIVEUA10",
+    "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Shelling/artillery/missile attack",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
+    "civilian_targeting":"",
     "location":"Marwahin",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, at around 14:30, Israeli military forces bombarded the outskirts of Marwahin (Tyr). There were no casualties.",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23504,20 +23000,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.5147,33.14 ]
+       "coordinates":  [ 35.4444,33.1038 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7577",
-    "event_date":"2023-11-20",
+    "event_id_cnty":"LIVEUA11",
+    "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Shelling/artillery/missile attack",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Blida",
-    "source_scale":"National",
-    "notes":"On 17 October 2023, Israeli military forces shelled a house in Blida (Marjayoun). There were no casualties.",
+    "civilian_targeting":"",
+    "location":"Maroun er Ras",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23525,20 +23021,104 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.3661,33.0783 ]
+       "coordinates":  [ 35.2324,33.1064 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7578",
-    "event_date":"2023-11-20",
+    "event_id_cnty":"LIVEUA13",
+    "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "sub_event_type":"Shelling/artillery/missile attack",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Rmaysh",
-    "source_scale":"Local partner-New media",
-    "notes":"On 17 October 2023, at around 13:46, Israeli military forces presumably shelled Hezbollah positions in Rmaysh (Bint Jbeil). Casualties unknown.",
+    "civilian_targeting":"",
+    "location":"Yarine",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2573,33.1045 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA14",
+    "event_date":"2023-11-19",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Boustane",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3103,33.1108 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA15",
+    "event_date":"2023-11-18",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Beit Lif",
+    "source_scale":"https://t.me/ignis_fatum/7764",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.515,33.2092 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA16",
+    "event_date":"2023-11-19",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Houla",
+    "source_scale":"https://t.me/ignis_fatum/7765",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5449,33.2147 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA17",
+    "event_date":"2023-11-19",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Margaliyyot",
+    "source_scale":"https://t.me/ignis_fatum/7767",
+    "notes":"N/A",
     "fatalities":0
     }
   },
@@ -23549,40 +23129,1237 @@
        "coordinates":  [ 35.1819,33.1042 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7579",
-    "event_date":"2023-11-20",
+    "event_id_cnty":"LIVEUA18",
+    "event_date":"2023-11-19",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Frappe aérienne",
+    "sub_event_type":"Shelling/artillery/missile attack",
     "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
+    "civilian_targeting":"",
     "location":"Aalma Ech Chaab",
-    "source_scale":"National-Regional",
-    "notes":"On 17 October 2023, an Israeli drone fired rockets towards a group of infiltrators [likely Hezbollah] who came close to the border wall facing the settlement of Hanita from the Lebanese side south of Aalma Ech Chaab (Tyr). 4 of the infiltrators were killed in the strike as they were trying to plant a bomb on the border wall. No group has claimed responsibility. However, Lebanese Red cross transported the bodies of 4 victims reported to be Hezbollah fighters from the area. 4 Hezbollah fighters were pronounced dead in the evening.",
-    "fatalities":4
+    "source_scale":"https://t.me/ignis_fatum/7787",
+    "notes":"N/A",
+    "fatalities":0
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.5234,33.1691 ]
+       "coordinates":  [ 35.5517,33.2772 ]
     },
     "properties": {
-    "event_id_cnty":"GFC7580",
+    "event_id_cnty":"LIVEUA19",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Civilian targeting",
+    "location":"Kfar Kila",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA20",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Civilian targeting",
+    "location":"Tayr Harfa",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2284,33.0878 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA21",
     "event_date":"2023-11-20",
     "year":2023,
     "disorder_type":"Political violence",
-    "event_type":"Battles",
-    "sub_event_type":"Affrontement armé",
-    "actor1":"Armée israélienne",
-    "civilian_targeting":"Non",
-    "location":"Mays el Jabal",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Aramsha",
     "source_scale":"National",
-    "notes":"On 17 October 2023, at around 16:27, Israeli military forces exchanged artillery and machine gun fire with Hezbollah on the outskirts of Mays el Jabal (Marjayoun). Casualties unknown.",
+    "notes":"On 22 October 2023, Hezbollah forces fired anti-tank missiles from Lebanon that landed in an open area near Aramsha (Akko, HaZafon). No injuries or material damages were reported. Since the start of the war on 7 October, over 7,400 rockets have been fired toward Israel from Gaza and Lebanon. At least 1,100 were intercepted by the iron dome, while about 550 fell within Gaza and at least 400 landed within Israel. The government did not address the thousands of rockets that are unaccounted for within the figures.",
     "fatalities":0
     }
   },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2324,33.1064 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA22",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Yarine",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA23",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Tayr Harfa",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5052,33.1544 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA24",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Mhaibib",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4444,33.1038 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA25",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Maroun er Ras",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5449,33.2147 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA26",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Margaliyyot",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3367,33.0971 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA27",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aita ech Chaab",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1819,33.1042 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA28",
+    "event_date":"2023-11-19",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aalma Ech Chaab",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5458,33.3025 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA29",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Deir Mimas",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5517,33.2772 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA30",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Kfar Kila",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5194,33.2482 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA31",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Rab el Thalathine",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.51348,33.21053 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA32",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Hula",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2754,33.1086 ]
+    },
+    "properties": {
+    "event_id_cnty":"LIVEUA33",
+    "event_date":"2023-11-26",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Marwahin",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5436,33.1909 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Menara",
+    "source_scale":"https://x.com/ignis_fatum/status/1725450240663199975",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23109,33.0855 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Admit",
+    "source_scale":"https://twitter.com/manniefabian/status/1725479016029692144",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12964,33.09672 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Naqura",
+    "source_scale":"https://twitter.com/alhurra/status/1725742511082078535",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3367,33.0971 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aita ech Chaab",
+    "source_scale":"https://twitter.com/aljadeednews/status/1725788230069461168",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3207,33.07541 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Netua",
+    "source_scale":"https://twitter.com/alarabiya_brk/status/1725788822435221618",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.36293,33.11786 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Debbel",
+    "source_scale":"https://t.me/ignis_fatum/7756",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31281,33.0914 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Shtula",
+    "source_scale":"https://twitter.com/manniefabian/status/1725793096485503088",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2754,33.1086 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Marwahin",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4444,33.1038 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Maroun er Ras",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2324,33.1064 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Yarine",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2573,33.1045 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Boustane",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3103,33.1108 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Beit Lif",
+    "source_scale":"https://t.me/ignis_fatum/7764",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.515,33.2092 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Houla",
+    "source_scale":"https://t.me/ignis_fatum/7765",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5449,33.2147 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Margaliyyot",
+    "source_scale":"https://t.me/ignis_fatum/7767",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1819,33.1042 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aalma Ech Chaab",
+    "source_scale":"https://t.me/ignis_fatum/7787",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5517,33.2772 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Kfar Kila",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Tayr Harfa",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2284,33.0878 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Aramsha",
+    "source_scale":"National",
+    "notes":"On 22 October 2023, Hezbollah forces fired anti-tank missiles from Lebanon that landed in an open area near Aramsha (Akko, HaZafon). No injuries or material damages were reported. Since the start of the war on 7 October, over 7,400 rockets have been fired toward Israel from Gaza and Lebanon. At least 1,100 were intercepted by the iron dome, while about 550 fell within Gaza and at least 400 landed within Israel. The government did not address the thousands of rockets that are unaccounted for within the figures.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2324,33.1064 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Yarine",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Tayr Harfa",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5052,33.1544 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Mhaibib",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4444,33.1038 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Maroun er Ras",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5449,33.2147 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Margaliyyot",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3367,33.0971 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aita ech Chaab",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1819,33.1042 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aalma Ech Chaab",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5458,33.3025 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Deir Mimas",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5517,33.2772 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Kfar Kila",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5194,33.2482 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Rab el Thalathine",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.51348,33.21053 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"",
+    "location":"Hula",
+    "source_scale":"N/A",
+    "notes":"N/A",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2754,33.1086 ]
+    },
+    "properties": {
+    "event_id_cnty":"c",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Marwahin",
+    "source_scale":"https://t.me/ignis_fatum/7760",
+    "notes":"N/A",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4714,33.1153 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aitaroun",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Aitaroun (Bint Jbeil). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5147,33.14 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Blida",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Blida (Marjayoun). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2586,33.1674 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Zebqine",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli fighter jets struck the outskirts of Zebqine (Tyr). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.256,33.1265 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Chihhine",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli fighter jets struck the outskirts of Chihhine (Tyr) twice. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2261,33.1514 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Majdel Zoun",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli fighter jets struck a house between Majdel Zoun (Tyr) and El Mansouri. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4647,33.2222 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Majdel Selm",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli fighter jets struck the outskirts of Majdel Selm (Marjayoun). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1995,33.1511 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-24",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Chamaa",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Chamaa (Tyr). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-25",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Tayr Harfa",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Tayr Harfa (Tyr). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3367,33.0971 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-25",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Aita ech Chaab",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, at around 19:30, Israeli fighter jets struck the outskirts of Aita ech Chaab (Bint Jbeil). There were no casualties. Later in the evening, an Israeli drone struck the outskirts of the town. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6264,33.3567 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-25",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Ibl el Saqi",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Ibl el Saqi (Marjayoun). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5996,33.2911 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-25",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Mazraat Sarada",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces targeted a LAF barracks in Mazraat Sarada (Marjayoun). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1397,33.1181 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-25",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Ras al Naqoura",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Ras al Naqoura (Tyr). There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.489,33.2431 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN1623333",
+    "event_date":"2023-11-25",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"",
+    "location":"Bani Haiyan",
+    "source_scale":"National",
+    "notes":"On 17 November 2023, Israeli military forces shelled the outskirts of Bani Haiyan (Marjayoun). There were no casualties.",
+    "fatalities":0
+    }
+  }
 ]
 }
