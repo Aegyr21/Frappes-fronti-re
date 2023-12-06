@@ -23840,6 +23840,27 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 35.5147,33.14 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16482",
+    "event_date":"2023-11-20",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"Non",
+    "location":"Blida",
+    "source_scale":"New media-National",
+    "notes":"On 20 November 2023, Hezbollah announced the death of a fighter due to rocket fire from Israeli military forces along the southern Lebanese borders. Coded to Blida.",
+    "fatalities":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 35.5517,33.2772 ]
     },
     "properties": {
@@ -24113,6 +24134,48 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 35.2654,33.1966 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16372",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Chaaytiye",
+    "source_scale":"National",
+    "notes":"On 21 November 2023, Israeli fighter jets struck a vehicle on the Qlaileh - Chaaytiye road (Tyr), killing 4 members of Hamas movement's 'Al Qassam Brigades' including a commander.",
+    "fatalities":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6128,33.3278 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16376",
+    "event_date":"2023-11-21",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Khiyam",
+    "source_scale":"New media-National",
+    "notes":"On 21 November 2023, in the morning, Israeli fighter jets and artillery simultaneously targeted houses in the town of Khiyam (Marjayoun), killing a Hezbollah fighter.",
+    "fatalities":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 35.3367,33.0971 ]
     },
     "properties": {
@@ -24302,6 +24365,48 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 35.4225,33.1592 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16401",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Air/drone strike",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Beit Yahoun",
+    "source_scale":"New media-National",
+    "notes":"On 22 November 2023, Israeli fighter jets struck a house in Beit Yahoun (Bint Jbeil), killing 5 Hezbollah fighters including the son of the Head of the Hezbollah parliamentary bloc, and a commander in the Radwan special forces unit.",
+    "fatalities":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5147,33.14 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16483",
+    "event_date":"2023-11-22",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"Non",
+    "location":"Blida",
+    "source_scale":"New media-National",
+    "notes":"On 22 November 2023, Hezbollah announced the death of a fighter due to rocket fire from Israeli military forces along the southern Lebanese borders. Coded to Blida.",
+    "fatalities":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 35.5439,33.1969 ]
     },
     "properties": {
@@ -24484,6 +24589,111 @@
     "location":"Houla",
     "source_scale":"New media-National",
     "notes":"On 19 October 2023, at around noon, Israeli military forces shelled the outskirts of Houla (Marjayoun). At around 18:!5, they shelled the north-eastern outskirts the same town, in response to a Hezbollah rocket attack against Al Aabad outpost. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5147,33.14 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16451",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Blida",
+    "source_scale":"New media-National",
+    "notes":"On 23 November 2023, Hezbollah announced the death of 2 of its fighters due to rocket firefrom Israeli military forces along the southern Lebanese borders. Coded to Blida.",
+    "fatalities":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4036,33.1112 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16459",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Ain Ebel",
+    "source_scale":"National",
+    "notes":"On 23 November 2023, Israeli Iron Dome air defense missiles intercepted a Hezbollah rocket attack against Israel, over Ain Ebel (Bint Jbeil). Rocket shrapnel fell on the town, damaging a number of houses. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6925,33.3278 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16476",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Battles",
+    "sub_event_type":"Armed clash",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"Non",
+    "location":"Kfar Chouba",
+    "source_scale":"National",
+    "notes":"On 23 November 2023, Hezbollah fired rockets towards Israeli 'As Samaqa' outpost prompting the IDF to retaliate by targeting Kfar Chouba and surrounding areas (Hasbeiya) with artillery and drone missiles. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6675,33.3541 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN16477",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Battles",
+    "sub_event_type":"Armed clash",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"Non",
+    "location":"Rachaya al Foukhar",
+    "source_scale":"National",
+    "notes":"On 23 November 2023, Hezbollah fired rockets towards Israeli 'As Samaqa' outpost prompting the IDF to retaliate by targeting Rachaya al Foukhar (Hasbeiya) with artillery. There were no casualties.",
+    "fatalities":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5234,33.1691 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00002",
+    "event_date":"2023-11-23",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Frappe aérienne",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Mays el Jabal",
+    "source_scale":"National",
+    "notes":"",
     "fatalities":0
     }
   },
@@ -24941,8 +25151,8 @@
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
     "sub_event_type":"Air/drone strike",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
     "location":"Jebbayn",
     "source_scale":"New media-National",
     "notes":"On 1 December 2023, Israeli fighter jets struck a house in Jebbayn (Tyr), killing a Hezbollah fighter and wounding 3 others.",
@@ -24962,8 +25172,8 @@
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
     "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
     "location":"Houla",
     "source_scale":"New media-National",
     "notes":"On 1 December 2023, Israeli military forces shelled a house in Houla (Marjayoun), killing a Hezbollah fighter and his mother.",
@@ -24974,41 +25184,314 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.5147,33.14 ]
+       "coordinates":  [ 35.6128,33.3278 ]
     },
     "properties": {
-    "event_id_cnty":"LBN16451",
-    "event_date":"2023-11-23",
+    "event_id_cnty":"LBN000017",
+    "event_date":"2023-12-03",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
-    "location":"Blida",
-    "source_scale":"New media-National",
-    "notes":"On 23 November 2023, Hezbollah announced the death of 2 of its fighters due to rocket firefrom Israeli military forces along the southern Lebanese borders. Coded to Blida.",
-    "fatalities":2
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Khiyam",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.4036,33.1112 ]
+       "coordinates":  [ 35.2754,33.1086 ]
     },
     "properties": {
-    "event_id_cnty":"LBN16459",
-    "event_date":"2023-11-23",
+    "event_id_cnty":"LBN000018",
+    "event_date":"2023-12-03",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
-    "location":"Ain Ebel",
-    "source_scale":"National",
-    "notes":"On 23 November 2023, Israeli Iron Dome air defense missiles intercepted a Hezbollah rocket attack against Israel, over Ain Ebel (Bint Jbeil). Rocket shrapnel fell on the town, damaging a number of houses. There were no casualties.",
+    "sub_event_type":"Frappe aérienne",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Marwahin",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6568,33.2987 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000019",
+    "event_date":"2023-12-03",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Wadi Khansa",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2573,33.1045 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000020",
+    "event_date":"2023-12-03",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Boustane",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6925,33.3278 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000021",
+    "event_date":"2023-12-03",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Kfar Chouba",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6228,33.2756 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000022",
+    "event_date":"2023-12-03",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Al Wazzani",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1397,33.1181 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000023",
+    "event_date":"2023-12-03",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Ras Naqoura",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3367,33.0971 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000014",
+    "event_date":"2023-12-04",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Aita ech Chaab",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6925,33.3278 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000015",
+    "event_date":"2023-12-04",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Kfar Chouba",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3103,33.1108 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000016",
+    "event_date":"2023-12-04",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Frappe aérienne",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Ramieh",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.21858728,33.08293059 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00009",
+    "event_date":"2023-12-05",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"Non",
+    "location":"Barkat Risha",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.54912253,33.24672067 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00010",
+    "event_date":"2023-12-05",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Hezbollah",
+    "civilian_targeting":"Non",
+    "location":"Cobra",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5179,33.2755 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00011",
+    "event_date":"2023-12-05",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Taybeh",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2324,33.1064 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000012",
+    "event_date":"2023-12-05",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Yarine",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2192,33.1285 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN000013",
+    "event_date":"2023-12-05",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Tayr Harfa",
+    "source_scale":"",
+    "notes":"",
     "fatalities":0
     }
   },
@@ -25019,17 +25502,17 @@
        "coordinates":  [ 35.6925,33.3278 ]
     },
     "properties": {
-    "event_id_cnty":"LBN16476",
-    "event_date":"2023-11-23",
+    "event_id_cnty":"LBN00001",
+    "event_date":"2023-12-06",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Battles",
-    "sub_event_type":"Armed clash",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"",
+    "sub_event_type":"Shelling/artillery/missile attack",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
     "location":"Kfar Chouba",
     "source_scale":"National",
-    "notes":"On 23 November 2023, Hezbollah fired rockets towards Israeli 'As Samaqa' outpost prompting the IDF to retaliate by targeting Kfar Chouba and surrounding areas (Hasbeiya) with artillery and drone missiles. There were no casualties.",
+    "notes":"",
     "fatalities":0
     }
   },
@@ -25037,83 +25520,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.6675,33.3541 ]
+       "coordinates":  [ 35.4444,33.1038 ]
     },
     "properties": {
-    "event_id_cnty":"LBN16477",
-    "event_date":"2023-11-23",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Battles",
-    "sub_event_type":"Armed clash",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"",
-    "location":"Rachaya al Foukhar",
-    "source_scale":"National",
-    "notes":"On 23 November 2023, Hezbollah fired rockets towards Israeli 'As Samaqa' outpost prompting the IDF to retaliate by targeting Rachaya al Foukhar (Hasbeiya) with artillery. There were no casualties.",
-    "fatalities":0
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.4225,33.1592 ]
-    },
-    "properties": {
-    "event_id_cnty":"LBN16401",
-    "event_date":"2023-11-22",
+    "event_id_cnty":"LBN00003",
+    "event_date":"2023-12-06",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Air/drone strike",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
-    "location":"Beit Yahoun",
-    "source_scale":"New media-National",
-    "notes":"On 22 November 2023, Israeli fighter jets struck a house in Beit Yahoun (Bint Jbeil), killing 5 Hezbollah fighters including the son of the Head of the Hezbollah parliamentary bloc, and a commander in the Radwan special forces unit.",
-    "fatalities":5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.5147,33.14 ]
-    },
-    "properties": {
-    "event_id_cnty":"LBN16483",
-    "event_date":"2023-11-22",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"",
-    "location":"Blida",
-    "source_scale":"New media-National",
-    "notes":"On 22 November 2023, Hezbollah announced the death of a fighter due to rocket fire from Israeli military forces along the southern Lebanese borders. Coded to Blida.",
-    "fatalities":1
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 35.2654,33.1966 ]
-    },
-    "properties": {
-    "event_id_cnty":"LBN16372",
-    "event_date":"2023-11-21",
-    "year":2023,
-    "disorder_type":"Political violence",
-    "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Air/drone strike",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
-    "location":"Chaaytiye",
-    "source_scale":"National",
-    "notes":"On 21 November 2023, Israeli fighter jets struck a vehicle on the Qlaileh - Chaaytiye road (Tyr), killing 4 members of Hamas movement's 'Al Qassam Brigades' including a commander.",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Civils visés",
+    "location":"Maroun er Ras",
+    "source_scale":"",
+    "notes":"",
     "fatalities":4
     }
   },
@@ -25121,21 +25541,42 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.6128,33.3278 ]
+       "coordinates":  [ 35.2324,33.1064 ]
     },
     "properties": {
-    "event_id_cnty":"LBN16376",
-    "event_date":"2023-11-21",
+    "event_id_cnty":"LBN00004",
+    "event_date":"2023-12-06",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
-    "sub_event_type":"Air/drone strike",
-    "actor1":"Military Forces of Israel (2022-)",
-    "civilian_targeting":"",
-    "location":"Khiyam",
-    "source_scale":"New media-National",
-    "notes":"On 21 November 2023, in the morning, Israeli fighter jets and artillery simultaneously targeted houses in the town of Khiyam (Marjayoun), killing a Hezbollah fighter.",
-    "fatalities":1
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Yarine",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3661,33.0783 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00005",
+    "event_date":"2023-12-06",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Rmaysh",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
     }
   },
   {
@@ -25145,18 +25586,60 @@
        "coordinates":  [ 35.5147,33.14 ]
     },
     "properties": {
-    "event_id_cnty":"LBN16482",
-    "event_date":"2023-11-20",
+    "event_id_cnty":"LBN00006",
+    "event_date":"2023-12-06",
     "year":2023,
     "disorder_type":"Political violence",
     "event_type":"Explosions/Remote violence",
     "sub_event_type":"Shelling/artillery/missile attack",
-    "actor1":"Hezbollah",
-    "civilian_targeting":"",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
     "location":"Blida",
-    "source_scale":"New media-National",
-    "notes":"On 20 November 2023, Hezbollah announced the death of a fighter due to rocket fire from Israeli military forces along the southern Lebanese borders. Coded to Blida.",
-    "fatalities":1
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1498,33.0977 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00007",
+    "event_date":"2023-12-06",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Labbouneh",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1397,33.1181 ]
+    },
+    "properties": {
+    "event_id_cnty":"LBN00008",
+    "event_date":"2023-12-06",
+    "year":2023,
+    "disorder_type":"Political violence",
+    "event_type":"Explosions/Remote violence",
+    "sub_event_type":"Bombardement d'artillerie ou de missiles",
+    "actor1":"Armée israélienne",
+    "civilian_targeting":"Non",
+    "location":"Ras Naqoura",
+    "source_scale":"",
+    "notes":"",
+    "fatalities":null
     }
   }
 ]
